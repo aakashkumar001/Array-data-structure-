@@ -1,0 +1,15 @@
+{
+  "name": "data_structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Array.js",
+  "scripts": {
+    "start": "nodemon Array.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
